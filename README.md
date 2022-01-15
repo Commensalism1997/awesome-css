@@ -2,7 +2,7 @@
 List of nice CSS themes made by the contributors
 # How to contribute
 ### Recommendations
-- Annotate your theme, so people know what part is responsible for what and  are able to tweak theme for their own
+- Annotate your theme, so people know what part is responsible for what and are able to tweak theme for their own
   - ```css
     /* Accents headers with blue colour */
     h1, h2, h3, h4
@@ -11,6 +11,8 @@ List of nice CSS themes made by the contributors
     }
     ```
 ### Rules
+- Your theme should be in themes/ directory
+- Your theme should be in folder of it's own, containing CSS file and preview, and optionally README.md
 - Add your theme on list below (You also can add what theme you used as base)
   - Sample:
     ```
