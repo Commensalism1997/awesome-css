@@ -1,6 +1,7 @@
 # awesome-css
 List of nice CSS themes made by the contributors
 # How to contribute
+See  pull request #1 as example
 ### Recommendations
 - Annotate your theme, so people know what part is responsible for what and are able to tweak theme for their own
   - ```css
