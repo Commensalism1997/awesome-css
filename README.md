@@ -12,7 +12,7 @@ List of nice CSS themes made by the contributors
     ```
 ### Rules
 - Your theme should be in themes/ directory
-- Your theme should be in folder of it's own, containing CSS file and preview, and optionally README.md
+- Your theme should be in folder of it's own, containing CSS file, preview image/gif, and optionally README.md
 - Add your theme on list below (You also can add what theme you used as base)
   - Sample:
     ```
