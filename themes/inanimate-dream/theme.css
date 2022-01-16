@@ -1,34 +1,43 @@
+/* Sets background to black*/
 body
 {
 	background-color: black;
 }
+
+/* Sets all text colors to Azure and font to Arial */
 *
 {
 	color: azure;
-	font-family: Arial;
+	font-family: AriaL;
 }
+/* Setups color transition on h1, h2, h3, h4 */
 h1, h2, h3, h4
 {
 	transition: color 0.5s;
 }
+/* Changes color of h1, h2, h3, h4 to aquamarine */
 h1:hover, h2:hover, h3:hover, h4:hover
 {
 	color: aquamarine;
 }
+/* Setups color transition on a */
 a
 {
 	transition: color 0.5s;
 }
+/* Hides underline and turns color to yellow on a when hovered */
 a:hover
 {
 	color: yellow;
 	text-decoration: inherit;
 }
+/* Blurs spoiler class and sets up transition */
 .spoiler
 {
 	filter: blur(5px);
 	transition: filter 1s;
 }
+/* Unblurs spoiler class on hover */
 .spoiler:hover
 {
 	filter: blur(0px);
