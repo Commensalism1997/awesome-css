@@ -1,7 +1,7 @@
 /* Sets background to black*/
 body
 {
-	background-color: black;
+	background-image: linear-gradient(151deg, black, #101010);
 }
 
 /* Sets all text colors to Azure and font to Arial */
